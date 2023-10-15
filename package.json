@@ -1,0 +1,21 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "Primeiro projeto framework",
+  "main": "Kenn.js",
+  "scripts": {
+    "test": "Atualização"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Primeiro projeto com o framework"
+  },
+  "keywords": [
+    "Myloveken30"
+  ],
+  "author": "Kenlove Chereste",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^9.0.1"
+  }
+}
